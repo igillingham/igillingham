@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igillingham
 - 👀 I’m interested in Python, Javascript, Typescript, C, C++, Particle Accelerators
-- 🌱 I’m currently learning Golang, Kafka
+- 🌱 I’m currently learning Golang, Rust and Kafka
 - 📫 How to reach me - email
 
 <!---
